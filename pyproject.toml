@@ -3,7 +3,7 @@ name = "intercom-python"
 
 [tool.poetry]
 name = "intercom-python"
-version = "4.0.0"
+version = "0.1.0"
 description = ""
 readme = "README.md"
 authors = []
